@@ -4,6 +4,9 @@
 
 The RedM Teleports Script is a feature-rich enhancement for the unofficial Red Dead Redemption 2 multiplayer experience. This script allows players to teleport to specific in-game locations effortlessly, offering a visually appealing and user-friendly interface.
 
+## Requirements:
+https://github.com/draobrehtom/PolyZone
+
 ## Key Features
 
 - **Sleek User Interface**: Enjoy a polished user interface with captivating animations and immersive sound effects.
